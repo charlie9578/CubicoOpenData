@@ -2,3 +2,7 @@ pandas
 bokeh
 matplotlib
 jupyter_bokeh
+xarray
+netcdf4 
+scipy
+jupyterlab
